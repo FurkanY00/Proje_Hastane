@@ -1,0 +1,14 @@
+
+This hospital project is designed to meet many needs of the hospital.
+
+"In this project, the secretary, doctor and patient can log in separately and perform operations on a single database, and the nurse, where the patients are registered,
+A place where the doctor can see the doctor's information and make announcements and appointments, and the doctor can see these appointments and make transactions.
+A simple project done during the learning phase.
+
+Bu hastane projesi hastanenin birçok ihtiyacını karşılayacak şekilde tasarlanmıştır.
+
+"Bu projede sekreter,doktor ve hasta ayrı ayrı giriş yapıp tek bir data base üzerinde işlemler yapabileceği hastaların kayıt olduğu hemşirenin 
+doktor bilgilerini görüp,duyuru ve randevu oluşturduğu doktorun ise bu randevuları göre bildiği ve işlemler yapabildiği bir 
+öğrenim aşamasında yapılan basit proje. 
+
+Murat Yücedağ'ın "Uygulama Geliştirerek C# Öğrenin: A'dan Z'ye Eğitim Seti" başlıklı eğitiminden bir örnektir.
